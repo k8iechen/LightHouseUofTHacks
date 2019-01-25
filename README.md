@@ -1,2 +1,2 @@
 # LightHouseUofTHacks
-Project submitted for U of T Hack
+Project submitted for UofTHacks VI
